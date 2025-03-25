@@ -7,9 +7,9 @@ export default function FirstBlock() {
             bg-[url('src/shares/images/Back_FB.webp')] bg-cover bg-center
             text-white"
         >
-            <p className="text-base mb-[3.75rem]">PORTFOLIO</p>
-            <p className="text-7xl font-medium mt-[1.5rem]">Frontend-developer</p>
-            <p className="text-2xl mt-[2.375rem]">Some text here</p>
+            <p className="text-base mb-[3.75rem] max-sm:text-sm">PORTFOLIO</p>
+            <p className="text-6xl font-medium mt-[1.5rem] max-sm:text-5xl">Frontend-developer</p>
+            <p className="text-2xl mt-[2.375rem] max-sm:text-base">Some text here</p>
         </div>
     );
 }   
