@@ -1,8 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Metal&family=Metal+Mania&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 @import "tailwindcss";
 
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-
+  font-family: 'Playfair Display', 'AxiformaRegular', Avenir , Helvetica, Arial, sans-serif;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -14,4 +14,7 @@ body {
   display: flex;
 }
 
-
+@font-face {
+  font-family: "AxiformaRegular";
+  src: url("../compontents//fonts/Axiforma/Axiforma-Regular.ttf");
+}

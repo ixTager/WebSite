@@ -1,14 +1,12 @@
-import About from "../shares/UI/About"
-import FirstBlock from "../shares/UI/FirstBlock"
-import Portfolio from "../shares/UI/PortFolio"
+import About from "../compontents/UI/About"
+import BuisnessCard from "../compontents/UI/BuisnessCard"
 
 function App() {
 
   return (
     <>
-      <FirstBlock />
+      <BuisnessCard />
       <About />
-      <Portfolio />
     </>
   )
 }
