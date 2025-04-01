@@ -12,7 +12,7 @@ export default function BusinessCard() {
         ">
             <div className="flex justify-center items-end flex-col max-lg:items-center
             text-9xl leading-relaxed text-[#4F4F51] max-sm:text-7xl
-            z-0 inset-shadow-[-2px_2px_4px_rgba(255, 255, 255, 0.5)] leading-[-5%] ">
+            z-0 inset-shadow-[-2px_2px_4px_rgba(255, 255, 255, 0.5)] leading-[-5%]">
                 <p className="
                 drop-shadow-[-6px_6px_4px_rgba(0,0,0,0.25)]">Dmitriy</p>
                 <p className="

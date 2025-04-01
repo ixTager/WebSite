@@ -16,5 +16,19 @@ body {
 
 @font-face {
   font-family: "AxiformaRegular";
-  src: url("../compontents//fonts/Axiforma/Axiforma-Regular.ttf");
+  src: url("../compontents/fonts/Axiforma/Axiforma-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "AxiformaMedium";
+  src: url("../compontents/fonts/Axiforma/Axiforma-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "AxiformaThin";
+  src: url("../compontents/fonts/Axiforma/Axiforma-Thin.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
 }
